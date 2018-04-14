@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/post/test/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -73,13 +78,26 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories/book-review/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/economics/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hanson/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,7 +115,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,7 +139,19 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/the-elephant-in-the-brain/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
